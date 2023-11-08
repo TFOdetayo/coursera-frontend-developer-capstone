@@ -5,10 +5,9 @@ import Footer from "./Footer"
 
 function App() {
   return (
-    <div className="App">
+    <div className="Flex">
       <Header/>
       <Nav/>
-      <Footer/>
     </div>
   );
 }
